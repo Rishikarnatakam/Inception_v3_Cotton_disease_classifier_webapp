@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# Model files
+*.h5
+finetune*.h5
+
+# Dataset
+Dataset/
+Dataset.zip
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Generated files
+LossVal_loss.png
+AccVal_loss.png
+LossVal_loss
+AccVal_acc
+
+# Misc
+.DS_Store
+.env
+.idea/
+.vscode/ 
