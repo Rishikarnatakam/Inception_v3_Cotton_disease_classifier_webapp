@@ -35,7 +35,6 @@ The following files are not included in the GitHub repository due to their size 
 1. Clone this repository:
    ```
    git clone https://github.com/Rishikarnatakam/Inception_v3_Cotton_disease_classifier_webapp.git
-   cd cotton-disease-classifier
    ```
 
 2. Download the dataset and model from Kaggle (links above)
